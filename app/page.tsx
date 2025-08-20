@@ -248,7 +248,7 @@ export default function HomePage() {
                     <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
                   </Button>
                 </a>
-                <a href="https://wa.me/16398163769" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto">
+                <a href="https://wa.me/13678481023" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto">
                   <Button
                     size="lg"
                     variant="outline"
@@ -265,7 +265,7 @@ export default function HomePage() {
                   استكشف لوحة التحكم
                   <ArrowRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
                 </Button>
-                <a href="https://wa.me/16398163769" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/13678481023" target="_blank" rel="noopener noreferrer">
                   <Button
                     size="lg"
                     variant="outline"
@@ -508,7 +508,7 @@ export default function HomePage() {
 
           <div className="mt-16">
             <p className="text-green-200 text-lg mb-8">Not ready to commit? Text us to get a taste of what we offer.</p>
-            <a href="https://wa.me/16398163769" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/13678481023" target="_blank" rel="noopener noreferrer">
               <Button variant="outline" className="border-2 border-slate-600 text-white hover:bg-slate-800 hover:border-green-500 px-8 py-3 rounded-full bg-transparent transition-all duration-300">
                 Text Us First
                 <ExternalLink className="w-4 h-4 ml-2" />
@@ -546,7 +546,7 @@ export default function HomePage() {
               </Button>
             </a>
 
-            <a href="https://wa.me/16398163769" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto">
+            <a href="https://wa.me/13678481023" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto">
               <Button size="lg" variant="outline" className="w-full sm:w-auto border-2 border-slate-600 text-white hover:bg-slate-800 hover:border-green-500 px-10 py-4 text-lg rounded-full bg-transparent transition-all duration-300">
                 Contact Us
                 <ExternalLink className="w-4 h-4 ml-2" />
@@ -568,7 +568,7 @@ export default function HomePage() {
             </div>
 
             <div className="flex items-center gap-6">
-              <a href="https://wa.me/16398163769" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto">
+              <a href="https://wa.me/13678481023" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto">
                 <Button variant="outline" className="w-full sm:w-auto border-slate-600 text-gray-300 hover:bg-slate-800 hover:border-green-500 bg-transparent transition-all duration-300">
                   <MessageCircle className="w-4 h-4 mr-2" />
                   Text Us
