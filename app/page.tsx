@@ -166,12 +166,70 @@ export default function HomePage() {
             Memecoin Trading
           </h1>
 
-          <p className="text-2xl md:text-3xl text-gray-300 mb-8 font-light">Some People Make Millions, Some Make Memes</p>
+<section className="mt-10 mb-16">
+  <div className="mx-auto grid w-full max-w-5xl grid-cols-1 gap-6 px-4 sm:grid-cols-2">
+    {/* WhatsApp */}
+    <a
+      href="https://api.whatsapp.com/send/?phone=13678481023&text&type=phone_number&app_absent=0"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="group flex w-full min-h-[128px] items-center gap-4 rounded-2xl border border-emerald-500/70 bg-slate-900/80 p-6 no-underline transition hover:-translate-y-1 hover:shadow-xl hover:shadow-black/30"
+    >
+      <div className="relative h-16 w-16 overflow-hidden rounded-xl shrink-0">
+        <Image
+          src="/achievements/26.png"
+          alt="WhatsApp"
+          fill
+          sizes="64px"
+          className="object-cover"
+          priority
+        />
+      </div>
+      <div className="min-w-0">
+        <h3 className="truncate text-xl font-semibold text-emerald-300 sm:text-[20px]">
+          Chat on WhatsApp
+        </h3>
+        <p className="mt-2 text-sm text-slate-300/80">
+          Get quick responses and direct support
+        </p>
+      </div>
+      <span className="ms-auto text-xl text-emerald-300 transition group-hover:translate-x-1">
+        ↗
+      </span>
+    </a>
 
-          <p className="text-lg text-gray-400 mb-12 max-w-3xl mx-auto leading-relaxed">
-            Join Nepal&apos;s most exclusive memecoin trading community. Learn from experts, access premium insights, and
-            transform your financial future with proven strategies.
-          </p>
+    {/* Telegram */}
+    <a
+      href="https://t.me/HOMMIT"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="group flex w-full min-h-[128px] items-center gap-4 rounded-2xl border border-emerald-500/70 bg-slate-900/80 p-6 no-underline transition hover:-translate-y-1 hover:shadow-xl hover:shadow-black/30"
+    >
+      <div className="relative h-16 w-16 overflow-hidden rounded-xl shrink-0">
+        <Image
+          src="/achievements/25.png"
+          alt="Telegram"
+          fill
+          sizes="64px"
+          className="object-cover"
+          priority
+        />
+      </div>
+      <div className="min-w-0">
+        <h3 className="truncate text-xl font-semibold text-emerald-300 sm:text-[20px]">
+          Join our Telegram
+        </h3>
+        <p className="mt-2 text-sm text-slate-300/80">
+          Stay updated with the latest memecoin signals
+        </p>
+      </div>
+      <span className="ms-auto text-xl text-emerald-300 transition group-hover:translate-x-1">
+        ↗
+      </span>
+    </a>
+  </div>
+</section>
+
 
           {/* Crypto Ticker Strip */}
           <div className="mb-16 overflow-hidden">
