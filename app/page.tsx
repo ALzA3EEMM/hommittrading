@@ -548,7 +548,7 @@ export default function HomePage() {
                         </div>
                         <p className="text-gray-300 text-sm mb-2">One-time payment</p>
                         <div className="text-6xl font-bold text-white mb-2">
-                          50,000 <span className="text-3xl text-gray-300 ml-2">Nrs</span>
+                          80,000 <span className="text-3xl text-gray-300 ml-2">Nrs</span>
                         </div>
                       </div>
                       <a href="https://t.me/HOMMIT" target="_blank" rel="noopener noreferrer" className="block">
